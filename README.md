@@ -121,7 +121,7 @@ C++          2 hrs 13 mins   ▒░░░░░░░░░░░░░░░░
 
 <!-- --- -->
 
-### 🐍 Contribution snake
+<!-- ### 🐍 Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bilalahmed14/bilalahmed14/output/github-contribution-grid-snake-dark.svg">
@@ -129,7 +129,7 @@ C++          2 hrs 13 mins   ▒░░░░░░░░░░░░░░░░
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bilalahmed14/bilalahmed14/output/github-contribution-grid-snake.svg">
 </picture>
 
----
+--- -->
 
 ### 🔗 Social info
 
