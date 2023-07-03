@@ -8,11 +8,10 @@
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a  Software Engineer At AFINTI
+- 👨‍💻 Software Engineer At [AFINITI].(https://www.afiniti.com/)
 
-- 🔭 Worked as A Audio Data scientist and DSP Engineer
+- 🔭 Audio Data scientist and DSP Engineer (webRTC) for FUN
 
-- 🌱 Worked as on VOIP applications, WebRTC, LAPACK, 
 
 - ⚡ Fun fact : **My Git-Hub codes = 30% Me + 30% StackOverflow + 40% Google**
 
