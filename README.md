@@ -8,7 +8,7 @@
 
 ---
 ### 👦 About Me
-- 👨‍💻 Software Engineer At [AFINITI].(https://www.afiniti.com/)
+- 👨‍💻 Software Engineer At [AFINITI](https://www.afiniti.com/)
 
 - 🔭 Audio Data scientist and DSP Engineer (webRTC) for FUN
 
