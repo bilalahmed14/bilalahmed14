@@ -8,7 +8,7 @@
 
 ---
 ### 👦 About Me
-- 👨‍💻 Software Engineer At [AFINITI](https://www.afiniti.com/)
+- 👨‍💻 Software Engineer At [Afiniti](https://www.afiniti.com/)
 
 - AI Engineer: Audio & Conversational AI (NLU/NLP).
 - Deep Learning for Audio Pipelines & STT (e.g., Whisper).
@@ -16,6 +16,17 @@
 - Architecting Scalable Real-time Audio/NLU Solutions.
 
 --- 
+
+### 🔗 CONTACT ME
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/bilalahmed384/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=bilalahmed3840@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+</div>
 
 ### 🔥 My Stats 
 <h2>Profile Stats:</h2>
@@ -131,14 +142,5 @@ C++          2 hrs 13 mins   ▒░░░░░░░░░░░░░░░░
 
 --- -->
 
-### 🔗 Social info
 
-<div id="badges">
-    <a href="https://www.linkedin.com/in/bilalahmed384/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=bilalahmed3840@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-</div>
 
