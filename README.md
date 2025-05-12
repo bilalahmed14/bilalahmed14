@@ -18,15 +18,16 @@
 --- 
 
 ### 🔥 My Stats 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=bilalahmed14&count_private=true&show_icons=true&theme=react)
-![GitHub Streak](https://streak-stats.demolab.com/?user=bilalahmed14&theme=react)
-![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=bilalahmed14&theme=react-dark)
-<!-- <a href="https://github.com/bilalahmed14/github-stats">
-<img src="https://github.com/bilalahmed14/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/bilalahmed14/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a> -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalahmed14&layout=compact&langs_count=10&theme=react) -->
-<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bilalahmed14&theme=react) -->
+<h2>Profile Stats:</h2>
+<div align="center">
+
+
+<p align="center"><img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilalahmed14&theme=github"/></p>
+<p align="center"><img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bilalahmed14&theme=github"/>
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bilalahmed14&theme=github"/></p>
+<p align="center"><img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bilalahmed14&theme=github"/>
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bilalahmed14&theme=github&utcOffset=8"/></p>
+</div>
 
 --- 
 
