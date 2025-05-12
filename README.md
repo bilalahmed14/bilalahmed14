@@ -10,10 +10,10 @@
 ### 👦 About Me
 - 👨‍💻 Software Engineer At [AFINITI](https://www.afiniti.com/)
 
-- 🔭 Audio Data scientist and DSP Engineer (webRTC) for FUN
-
-
-- ⚡ Fun fact : **My Git-Hub codes = 30% Me + 30% StackOverflow + 40% Google**
+- AI Engineer: Audio & Conversational AI (NLU/NLP).
+- Deep Learning for Audio Pipelines & STT (e.g., Whisper).
+- RNNs for Audio Enhancement & Customer Prediction.
+- Architecting Scalable Real-time Audio/NLU Solutions.
 
 --- 
 
